@@ -5,7 +5,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data: https://pokeapi.co; connect-src 'self' https://pokeapi.co https://api.pokeapi.co; font-src 'self' data:;"
+    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self' 'unsafe-inline' 'unsafe-eval'; img-src 'self' data: https://pokeapi.co; connect-src 'self' https://pokeapi.co https://api.pokeapi.co https://beta.pokeapi.co; font-src 'self' https://fonts.gstatic.com;"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
