@@ -14,4 +14,12 @@
 
 ## Project Overview
 
+
+<image src="https://github.com/jjvnz/Pok-dex-Angular-project/blob/main/My%20diagram.svg" alt="Descripción de la imagen">
+
+![image](https://github.com/user-attachments/assets/c073bd60-2fe1-4aa5-8edb-ddde2252f59a)
+
+
+
+
 This project is an Angular-based Pokédex application that displays Pokémon from the first three generations, using the [PokéAPI](https://pokeapi.co/).
